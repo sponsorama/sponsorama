@@ -1,0 +1,21 @@
+{
+  "name": "sponsorama",
+  "version": "0.0.0",
+  "description": "Sponsorama",
+  "main": "sponsorama.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sponsorama/sponsorama.git"
+  },
+  "keywords": [
+    "sponsorama"
+  ],
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/sponsorama/sponsorama/issues"
+  },
+  "homepage": "https://github.com/sponsorama/sponsorama"
+}
